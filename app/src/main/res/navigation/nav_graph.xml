@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/onboardingFragment">
+
+    <!-- Onboarding — shown once, then skipped via SharedPreferences -->
+    <fragment
+        android:id="@+id/onboardingFragment"
+        android:name="com.decovision.app.ui.onboarding.OnboardingFragment"
+        android:label="Onboarding"
+        tools:layout="@layout/fragment_onboarding">
+
+        <action
+            android:id="@+id/action_onboarding_to_home"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/onboardingFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <!-- Home screen -->
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.decovision.app.ui.home.HomeFragment"
+        android:label="@string/nav_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_home_to_ar"
+            app:destination="@id/arFragment" />
+
+        <action
+            android:id="@+id/action_home_to_my_designs"
+            app:destination="@id/myDesignsFragment" />
+    </fragment>
+
+    <!-- AR Screen -->
+    <fragment
+        android:id="@+id/arFragment"
+        android:name="com.decovision.app.ui.ar.ArFragment"
+        android:label="AR View"
+        tools:layout="@layout/fragment_ar" />
+
+    <!-- My Designs grid -->
+    <fragment
+        android:id="@+id/myDesignsFragment"
+        android:name="com.decovision.app.ui.designs.MyDesignsFragment"
+        android:label="@string/nav_my_designs"
+        tools:layout="@layout/fragment_my_designs" />
+
+</navigation>

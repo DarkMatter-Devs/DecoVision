@@ -1,0 +1,4 @@
+#Mon Jun 01 15:59:13 PKT 2026
+base.0=D\:\\projects\\DecoVision_final\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

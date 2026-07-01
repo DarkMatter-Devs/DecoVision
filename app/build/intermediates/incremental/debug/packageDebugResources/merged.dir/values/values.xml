@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#E3C379</color>
+    <color name="colorBackground">#141315</color>
+    <color name="colorError">#FFB4AB</color>
+    <color name="colorErrorContainer">#93000A</color>
+    <color name="colorGlassTint">#661A1A2E</color>
+    <color name="colorGoldBorder">#33E3C379</color>
+    <color name="colorOnError">#690005</color>
+    <color name="colorOnPrimary">#2F2E43</color>
+    <color name="colorOnPrimaryContainer">#83829B</color>
+    <color name="colorOnSecondary">#3E2E00</color>
+    <color name="colorOnSecondaryContainer">#D0B26A</color>
+    <color name="colorOnSurface">#E5E1E3</color>
+    <color name="colorOnSurfaceVariant">#C8C5CD</color>
+    <color name="colorOutline">#929097</color>
+    <color name="colorOutlineVariant">#47464C</color>
+    <color name="colorPrimary">#C6C4DF</color>
+    <color name="colorPrimaryContainer">#1A1A2E</color>
+    <color name="colorPrimaryDark">#45455B</color>
+    <color name="colorSecondary">#E3C379</color>
+    <color name="colorSecondaryContainer">#594404</color>
+    <color name="colorSurface">#141315</color>
+    <color name="colorSurfaceBright">#3A393B</color>
+    <color name="colorSurfaceContainer">#201F21</color>
+    <color name="colorSurfaceContainerHigh">#2A2A2B</color>
+    <color name="colorSurfaceContainerHighest">#353436</color>
+    <color name="colorSurfaceContainerLow">#1C1B1D</color>
+    <color name="colorSurfaceContainerLowest">#0E0E10</color>
+    <color name="colorSurfaceDim">#141315</color>
+    <color name="colorSurfaceVariant">#353436</color>
+    <color name="textMuted">#8A8A9A</color>
+    <color name="textPrimary">#E5E1E3</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_description">Professional-grade augmented reality tools for the modern homeowner.</string>
+    <string name="app_name">DecoVision</string>
+    <string name="ar_deleted">Item removed from scene.</string>
+    <string name="ar_init_error">AR initialization failed: %s</string>
+    <string name="ar_not_supported">AR is not supported on this device.</string>
+    <string name="ar_pinch_hint">Pinch with two fingers to resize the selected item.</string>
+    <string name="ar_resume_error">AR resume failed: %s</string>
+    <string name="ar_rotated">Item rotated +15°</string>
+    <string name="ar_select_first">Select a furniture item first.</string>
+    <string name="ar_session_error">AR session error: %s</string>
+    <string name="ar_tap_hint">Tap a detected surface to interact.</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="card_my_designs">My Designs</string>
+    <string name="card_my_designs_desc">View saved arrangements</string>
+    <string name="card_start_ar">Start AR</string>
+    <string name="card_start_ar_desc">Place furniture in your room</string>
+    <string name="cd_app_logo">DecoVision logo</string>
+    <string name="cd_ar_live">AR live indicator</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_design_thumbnail">Design thumbnail</string>
+    <string name="cd_empty_state">No designs illustration</string>
+    <string name="delete">Delete</string>
+    <string name="delete_design_message">Are you sure you want to delete \'%s\'? This cannot be undone.</string>
+    <string name="delete_design_title">Delete Design</string>
+    <string name="design_name_empty">Please enter a design name.</string>
+    <string name="design_save_error">Save failed: %s</string>
+    <string name="design_saved">Design saved successfully!</string>
+    <string name="empty_designs_subtitle">Start an AR session to create and save your first design.</string>
+    <string name="empty_designs_title">No Designs Yet</string>
+    <string name="fab_add_furniture">Add Furniture</string>
+    <string name="fab_delete">Delete</string>
+    <string name="fab_resize">Resize</string>
+    <string name="fab_rotate">Rotate</string>
+    <string name="fab_save">Save Design</string>
+    <string name="furniture_add_error">Could not add furniture: %s</string>
+    <string name="furniture_added">Furniture added (ID: %s…)</string>
+    <string name="home_greeting">Good Design,\nGreat Spaces</string>
+    <string name="home_subtitle">Visualize furniture in your space before you buy.</string>
+    <string name="my_designs_title">My Designs</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_my_designs">My Designs</string>
+    <string name="no_recent_designs">No designs yet.\nTap \'Start AR\' to create one.</string>
+    <string name="recent_designs">Recent Designs</string>
+    <string name="save">Save</string>
+    <string name="save_design_hint">e.g. Living Room v2</string>
+    <string name="save_design_title">Name Your Design</string>
+    <string name="see_all">See All</string>
+    <string name="tagline">See it before you place it</string>
+    <style name="TextAppearance.DecoVision.Body.Large" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+    <style name="TextAppearance.DecoVision.Body.Medium" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:textColor">@color/colorOnSurfaceVariant</item>
+    </style>
+    <style name="TextAppearance.DecoVision.Display.Large" parent="TextAppearance.Material3.DisplayLarge">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineHeight">48sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="TextAppearance.DecoVision.Headline.Medium" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+    <style name="TextAppearance.DecoVision.Label.Large" parent="TextAppearance.Material3.LabelLarge">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="TextAppearance.DecoVision.Title.Large" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+    <style name="Theme.DecoVision" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/textPrimary</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+        <item name="colorOutline">@color/colorOutline</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.DecoVision.Dialog" parent="ThemeOverlay.Material3.Dialog">
+        <item name="colorSurface">@color/colorSurfaceContainerHigh</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorPrimary">@color/colorSecondary</item>
+    </style>
+    <style name="Widget.DecoVision.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:background">@color/colorSurfaceContainerLowest</item>
+        <item name="itemIconTint">@color/nav_item_color</item>
+        <item name="itemTextColor">@color/nav_item_color</item>
+    </style>
+    <style name="Widget.DecoVision.Button.Primary" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorOnSecondary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="Widget.DecoVision.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/colorOnSurfaceVariant</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0.2</item>
+    </style>
+    <style name="Widget.DecoVision.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/colorSurfaceContainerHigh</item>
+        <item name="strokeColor">@color/colorOutlineVariant</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+    <style name="Widget.DecoVision.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Primary">
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="tint">@color/colorOnSecondary</item>
+        <item name="android:textColor">@color/colorOnSecondary</item>
+    </style>
+</resources>

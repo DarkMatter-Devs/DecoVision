@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DecoVision" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/textPrimary</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+        <item name="colorOutline">@color/colorOutline</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <!-- Dialog style matching the dark theme -->
+    <style name="Theme.DecoVision.Dialog" parent="ThemeOverlay.Material3.Dialog">
+        <item name="colorSurface">@color/colorSurfaceContainerHigh</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorPrimary">@color/colorSecondary</item>
+    </style>
+
+    <!-- MaterialCardView style -->
+    <style name="Widget.DecoVision.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/colorSurfaceContainerHigh</item>
+        <item name="strokeColor">@color/colorOutlineVariant</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <!-- Primary button — Warm Gold fill -->
+    <style name="Widget.DecoVision.Button.Primary" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorOnSecondary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- Text-only button -->
+    <style name="Widget.DecoVision.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/colorOnSurfaceVariant</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0.2</item>
+    </style>
+
+    <!-- FAB style — Gold background -->
+    <style name="Widget.DecoVision.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Primary">
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="tint">@color/colorOnSecondary</item>
+        <item name="android:textColor">@color/colorOnSecondary</item>
+    </style>
+
+    <!-- Bottom navigation — itemActiveIndicatorColor removed (set via colorSecondaryContainer automatically) -->
+    <style name="Widget.DecoVision.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:background">@color/colorSurfaceContainerLowest</item>
+        <item name="itemIconTint">@color/nav_item_color</item>
+        <item name="itemTextColor">@color/nav_item_color</item>
+    </style>
+
+</resources>

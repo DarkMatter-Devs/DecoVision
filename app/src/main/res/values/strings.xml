@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DecoVision</string>
+    <string name="tagline">See it before you place it</string>
+    <string name="app_description">Professional-grade augmented reality tools for the modern homeowner.</string>
+
+    <!-- Onboarding -->
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_sign_in">Sign In</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Good Design,\nGreat Spaces</string>
+    <string name="home_subtitle">Visualize furniture in your space before you buy.</string>
+    <string name="card_start_ar">Start AR</string>
+    <string name="card_start_ar_desc">Place furniture in your room</string>
+    <string name="card_my_designs">My Designs</string>
+    <string name="card_my_designs_desc">View saved arrangements</string>
+    <string name="recent_designs">Recent Designs</string>
+    <string name="see_all">See All</string>
+    <string name="no_recent_designs">No designs yet.\nTap \'Start AR\' to create one.</string>
+
+    <!-- AR -->
+    <string name="ar_not_supported">AR is not supported on this device.</string>
+    <string name="ar_init_error">AR initialization failed: %s</string>
+    <string name="ar_session_error">AR session error: %s</string>
+    <string name="ar_resume_error">AR resume failed: %s</string>
+    <string name="ar_tap_hint">Tap a detected surface to interact.</string>
+    <string name="ar_pinch_hint">Pinch with two fingers to resize the selected item.</string>
+    <string name="ar_select_first">Select a furniture item first.</string>
+    <string name="ar_rotated">Item rotated +15°</string>
+    <string name="ar_deleted">Item removed from scene.</string>
+    <string name="furniture_added">Furniture added (ID: %s…)</string>
+    <string name="furniture_add_error">Could not add furniture: %s</string>
+
+    <!-- AR HUD buttons -->
+    <string name="fab_add_furniture">Add Furniture</string>
+    <string name="fab_rotate">Rotate</string>
+    <string name="fab_resize">Resize</string>
+    <string name="fab_delete">Delete</string>
+    <string name="fab_save">Save Design</string>
+
+    <!-- Save Design -->
+    <string name="save_design_title">Name Your Design</string>
+    <string name="save_design_hint">e.g. Living Room v2</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="design_saved">Design saved successfully!</string>
+    <string name="design_save_error">Save failed: %s</string>
+    <string name="design_name_empty">Please enter a design name.</string>
+
+    <!-- My Designs -->
+    <string name="my_designs_title">My Designs</string>
+    <string name="empty_designs_title">No Designs Yet</string>
+    <string name="empty_designs_subtitle">Start an AR session to create and save your first design.</string>
+    <string name="delete_design_title">Delete Design</string>
+    <string name="delete_design_message">Are you sure you want to delete \'%s\'? This cannot be undone.</string>
+    <string name="delete">Delete</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_my_designs">My Designs</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_app_logo">DecoVision logo</string>
+    <string name="cd_ar_live">AR live indicator</string>
+    <string name="cd_design_thumbnail">Design thumbnail</string>
+    <string name="cd_empty_state">No designs illustration</string>
+    <string name="cd_back">Go back</string>
+</resources>

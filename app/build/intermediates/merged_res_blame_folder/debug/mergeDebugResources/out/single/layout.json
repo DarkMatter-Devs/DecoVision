@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/item_design.xml",
+        "source": "com.decovision.app-main-71:/layout/item_design.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/activity_main.xml",
+        "source": "com.decovision.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/fragment_home.xml",
+        "source": "com.decovision.app-main-71:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/fragment_my_designs.xml",
+        "source": "com.decovision.app-main-71:/layout/fragment_my_designs.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/fragment_ar.xml",
+        "source": "com.decovision.app-main-71:/layout/fragment_ar.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/fragment_onboarding.xml",
+        "source": "com.decovision.app-main-71:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/dialog_save_design.xml",
+        "source": "com.decovision.app-main-71:/layout/dialog_save_design.xml"
+    },
+    {
+        "merged": "com.decovision.app-mergeDebugResources-68:/layout/dialog_design_preview.xml",
+        "source": "com.decovision.app-main-71:/layout/dialog_design_preview.xml"
+    }
+]

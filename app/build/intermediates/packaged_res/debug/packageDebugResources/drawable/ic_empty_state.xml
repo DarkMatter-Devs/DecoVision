@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Sofa / couch icon path -->
+    <path
+        android:fillColor="#47464C"
+        android:pathData="M21,9V7a2,2 0,0 0,-2 -2H5C3.9,5 3,5.9 3,7v2C1.9,9 1,9.9 1,11v5h1.33L3,18h1l0.67,-2H19.33L20,18h1l0.67,-2H23v-5C23,9.9 22.1,9 21,9zM5,7h14v2h-2V8h-2v1H9V8H7v1H5V7zM21,14H3v-3c0,-0.55 0.45,-1 1,-1h16c0.55,0 1,0.45 1,1v3z" />
+    <!-- Gold accent cushion detail -->
+    <path
+        android:fillColor="#E3C379"
+        android:pathData="M8,7h3v2H8z" />
+    <path
+        android:fillColor="#E3C379"
+        android:pathData="M13,7h3v2h-3z" />
+</vector>

@@ -1,0 +1,4 @@
+com.decovision.app.test.app-androidTest-0 D:\projects\DecoVision_final\app\build\generated\res\resValues\androidTest\debug
+com.decovision.app.test.app-mergeDebugAndroidTestResources-1 D:\projects\DecoVision_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.decovision.app.test.app-mergeDebugAndroidTestResources-2 D:\projects\DecoVision_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.decovision.app.test.app-debugAndroidTest-3 D:\projects\DecoVision_final\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

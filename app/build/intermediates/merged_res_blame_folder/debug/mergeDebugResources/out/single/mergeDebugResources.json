@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.decovision.app-debug-69:/navigation_nav_graph.xml.flat",
+        "source": "com.decovision.app-main-71:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_fragment_ar.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/fragment_ar.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_bed.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_bed.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_lamp.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_lamp.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_item_design.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/item_design.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_onboarding.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_onboarding.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_table.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_table.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_plant.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_plant.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_chair.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_chair.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_hud_panel.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_hud_panel.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_color_dot_dark.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_color_dot_dark.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_activity_main.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.decovision.app-main-71:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_wardrobe.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_wardrobe.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_scrim_bottom.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_scrim_bottom.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_ic_empty_state.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/ic_empty_state.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_sofa.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_sofa.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_ic_ar_live.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/ic_ar_live.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_color_dot_gold.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_color_dot_gold.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_glass_pill.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_glass_pill.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_ic_designs.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/ic_designs.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_fragment_onboarding.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_fragment_my_designs.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/fragment_my_designs.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_card.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/color_nav_item_color.xml.flat",
+        "source": "com.decovision.app-main-71:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_dialog_save_design.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/dialog_save_design.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_ic_home.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_furniture_tv_stand.png.flat",
+        "source": "com.decovision.app-main-71:/drawable/furniture_tv_stand.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_dialog_design_preview.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/dialog_design_preview.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.decovision.app-main-71:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/layout_fragment_home.xml.flat",
+        "source": "com.decovision.app-main-71:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.decovision.app-debug-69:/drawable_bg_color_dot_grey.xml.flat",
+        "source": "com.decovision.app-main-71:/drawable/bg_color_dot_grey.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="640dp"
+    android:viewportWidth="360"
+    android:viewportHeight="640">
+    <!-- Deep navy base fill -->
+    <path
+        android:fillColor="#141315"
+        android:pathData="M0,0h360v640H0z" />
+    <!-- Radial gradient centre highlight (top-right glow) -->
+    <path
+        android:fillColor="#1A252540"
+        android:pathData="M360,0 Q360,250 180,200 Q0,150 0,0Z" />
+    <!-- Gold ambient glow blob -->
+    <path
+        android:fillColor="#14E3C379"
+        android:pathData="M-30,420 Q90,300 210,380 Q330,460 400,640 L0,640Z" />
+    <!-- Subtle bottom wave -->
+    <path
+        android:fillColor="#1C1B1D"
+        android:pathData="M0,520 Q90,480 180,510 Q270,540 360,500 L360,640 L0,640Z" />
+</vector>
